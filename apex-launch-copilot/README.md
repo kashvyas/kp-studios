@@ -1,5 +1,7 @@
 # AI LaunchGuard — AI Product Leadership Proof
 
+> **Project moved:** The maintained standalone repository is [AI LaunchGuard](https://github.com/kashvyas/ai-launchguard). This folder remains available for existing links.
+
 A compact portfolio prototype built to demonstrate **AI-native product management craft**: agentic workflow design, retrieval/context engineering, tool use, MCP exposure, eval-first release gates, observability, and responsible-AI decisioning.
 
 > **Important:** This is a synthetic portfolio project. It does not use FanDuel systems, data, policies, or proprietary information.

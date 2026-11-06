@@ -1,4 +1,4 @@
-# CLAUDE.md — APEX Launch Copilot
+# CLAUDE.md — AI LaunchGuard
 
 ## Product intent
 Build the smallest reliable system that helps an AI PM decide whether a feature is ready to ship.

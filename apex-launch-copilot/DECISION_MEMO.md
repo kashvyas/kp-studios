@@ -1,4 +1,4 @@
-# Decision Memo — Why this architecture
+# AI LaunchGuard — Architecture Decision Memo
 
 ## Decision
 Use a **tool-using orchestration layer + lightweight retrieval + deterministic release policy engine** instead of a free-form LLM agent making the final ship decision.

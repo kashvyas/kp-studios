@@ -1,4 +1,4 @@
-# APEX Launch Copilot — AI Product Leadership Proof
+# AI LaunchGuard — AI Product Leadership Proof
 
 A compact portfolio prototype built to demonstrate **AI-native product management craft**: agentic workflow design, retrieval/context engineering, tool use, MCP exposure, eval-first release gates, observability, and responsible-AI decisioning.
 

@@ -1,4 +1,4 @@
-"""MCP v2 server for the APEX Launch Copilot.
+"""MCP v2 server for the AI LaunchGuard.
 
 Requires: pip install "mcp[cli]>=2,<3"
 """
@@ -11,7 +11,7 @@ from src.apex_launch_copilot.tools import (
     get_incident_status as _get_incident_status,
 )
 
-mcp = MCPServer("APEX Launch Copilot")
+mcp = MCPServer("AI LaunchGuard")
 
 
 @mcp.tool()

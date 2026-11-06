@@ -1,4 +1,4 @@
-# APEX Launch Copilot — Portfolio One-Pager
+# AI LaunchGuard — Portfolio One-Pager
 
 ## Problem
 AI product teams need a fast, auditable answer to a recurring launch question: **is this feature safe and ready to ship?** Evidence is fragmented across evals, Responsible AI reviews, incidents, rollout state, and policy.
